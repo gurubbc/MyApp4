@@ -6,6 +6,7 @@ public class TestProduct {
 		Product p=new Product("chair");
 		System.out.println("Start");
 		System.out.println(p);
+		System.out.println("github");
 
 	}
 
